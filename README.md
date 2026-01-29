@@ -170,7 +170,7 @@ Next steps:
 
 ---
 
-## Quick interview talking points
+## Quick Snap
 • Built a text to signal pipeline: ingestion, cleaning, scoring, aggregation, dashboard  
 • Chose VADER for speed and interpretability on social style language  
 • Designed outputs to be actionable: trends plus the posts driving the score  
