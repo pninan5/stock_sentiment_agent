@@ -152,11 +152,7 @@ pip install --upgrade praw
 
 ---
 
-## Screenshots (recommended for interview readiness)
-Add 2 to 3 screenshots and link them here:
-• assets/screenshots/dashboard.png  
-• assets/screenshots/trend.png  
-• assets/screenshots/sample_posts.png  
+## Screenshots
 
 ---
 
